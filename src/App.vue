@@ -6,4 +6,7 @@
 
 <style lang="scss">
   @import './assets/main.scss';
+  #app {
+    height: inherit;
+  }
 </style>
