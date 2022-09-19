@@ -24,3 +24,10 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Link for getting ip
+ip = https://www.ipify.org/
+
+### Link for location, timezone using ip address
+ip -> ip address
+https://ipapi.co/"+ip+"/json/
