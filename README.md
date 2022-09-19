@@ -1,5 +1,7 @@
 # ip-tracker
 
+Check it on https://ip-tracking-website.netlify.app
+
 ## Project setup
 ```
 npm install
